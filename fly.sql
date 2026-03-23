@@ -1,4 +1,4 @@
-# 📘 MySQL Learning Notes
+📘 MySQL Learning Notes
 
 A personal reference covering core MySQL concepts — from basic queries to joins, aggregations, constraints, and more.
 
